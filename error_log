@@ -1,0 +1,13 @@
+[25-Sep-2020 22:01:58 Asia/Dubai] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/w1ft43q4sr3u/public_html/valet/php/showtable.php on line 151
+[25-Sep-2020 23:00:30 Asia/Dubai] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/w1ft43q4sr3u/public_html/valet/php/showtable.php on line 151
+[25-Sep-2020 23:00:52 Asia/Dubai] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/w1ft43q4sr3u/public_html/valet/php/showtable.php on line 151
+[17-Dec-2021 06:35:08 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/w1ft43q4sr3u/public_html/valet/frubai.php on line 2
+[17-Dec-2021 06:35:08 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/w1ft43q4sr3u/public_html/valet/frubai.php on line 2
+[17-Dec-2021 06:49:25 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/w1ft43q4sr3u/public_html/valet/frubai.php on line 2
+[17-Dec-2021 06:49:26 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/w1ft43q4sr3u/public_html/valet/frubai.php on line 2
+[17-Dec-2021 06:49:27 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/w1ft43q4sr3u/public_html/valet/frubai.php on line 2
+[02-Jan-2022 06:52:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/w1ft43q4sr3u/public_html/valet/egqjlh.php on line 1233
+[05-Jan-2022 02:24:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/w1ft43q4sr3u/public_html/valet/egqjlh.php on line 1233
+[05-Jan-2022 02:24:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/w1ft43q4sr3u/public_html/valet/egqjlh.php on line 1233
+[05-Jan-2022 10:00:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/w1ft43q4sr3u/public_html/valet/zwgqkh.php on line 1233
+[13-Jan-2022 14:20:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/w1ft43q4sr3u/public_html/valet/ftzevp.php on line 1233
